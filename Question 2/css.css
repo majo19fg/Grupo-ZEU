@@ -1,0 +1,10 @@
+.wrp {
+    width: 35%;
+    margin: auto;
+  }
+  
+  .item {
+    border: 1px solid #ccc;
+    padding: 0 10px;
+    background: #fff;  
+  }
